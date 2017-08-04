@@ -3,7 +3,7 @@
 
     "type": "yii2-extension",
 
-    "description": "sms",
+    "description": "sms for freematiq",
 
     "autoload": {
         "psr-4": {
@@ -12,7 +12,6 @@
     },
     "require": {
         "yiisoft/yii2-composer": "*"
-
       }
 }
 
