@@ -1,0 +1,19 @@
+{
+    "name": "bubogumy/yii2-sms",
+
+    "type": "yii2-extension",
+
+    "description": "sms",
+
+    "autoload": {
+        "psr-4": {
+            "bubogumy\\": ""
+        }
+    },
+    "require": {
+        "yiisoft/yii2-composer": "*"
+
+      }
+}
+
+
