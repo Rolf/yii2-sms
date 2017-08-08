@@ -21,5 +21,5 @@
 Для отправки сообщений используем
 ````
 use bubogumy\Sms;  
-Yii::$app->sms->send($phone = '+78005553535',$subject= 'title', $message='Проще позвонить');
+Yii::$app->sms->send($phone = '+78005553535', $message='Проще позвонить');
 ````
